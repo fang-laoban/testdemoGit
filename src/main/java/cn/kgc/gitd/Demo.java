@@ -6,7 +6,11 @@ public class Demo {
 		System.out.println("dcsfsdsdsd");
 		System.out.println("gdsgr");
 		System.out.println("分支项目");
+<<<<<<< HEAD
 		System.out.println("分支项目二");
 		System.out.println("dsf");
+=======
+		System.out.println("分支添加");
+>>>>>>> refs/heads/dev
 	}
 }
